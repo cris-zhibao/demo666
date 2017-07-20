@@ -1,0 +1,10 @@
+下载东西
+    		git clone 线上仓库地址
+
+    		cd 进到文件夹 
+
+    		git add .
+
+    		git commit -m '内容'
+
+    		git push
